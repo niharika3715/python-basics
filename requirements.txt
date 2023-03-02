@@ -43,20 +43,20 @@ PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_166160483914
 python-dateutil==2.8.2
 pytz==2022.7.1
 pytz-deprecation-shim==0.1.0.post0
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1661872987712/work
+requests
 rich==13.3.1
-ruamel-yaml-conda @ file:///Users/runner/miniforge3/conda-bld/ruamel_yaml_1666819987451/work
+ruamel-yaml-conda
 semver==2.13.0
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+six
 smmap==5.0.0
 streamlit==1.19.0
 toml==0.10.2
-toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1657485559105/work
+toolz
 tornado==6.2
-tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1662214488106/work
+tqdm
 typing_extensions==4.5.0
 tzdata==2022.7
 tzlocal==4.2
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1658789158161/work
+urllib3
 validators==0.20.0
 zipp==3.15.0
